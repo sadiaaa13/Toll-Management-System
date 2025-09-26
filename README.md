@@ -4,6 +4,7 @@ An Android + PHP + MySQL based Toll Management System with RFID authentication.
 Users register, get approved by an admin, and can manage their toll balance, recharge, and view vehicle details via a mobile app.
 
 📌 Features
+
 👤 User
 
 Register and login using email/phone/vehicle number
